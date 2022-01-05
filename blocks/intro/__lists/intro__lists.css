@@ -12,10 +12,12 @@
 .intro__lists { 
   margin: 33px 0 88px 0;
 }
+}
 
 @media screen and (max-width:460px) {
 .intro__lists { 
   min-width: 280px;
   max-width: 288px;
-   margin: 33px 0 64px 0;
+  margin: 33px 0 64px 0;
+}
 }

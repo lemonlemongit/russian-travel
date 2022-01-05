@@ -15,6 +15,7 @@
   position: relative;
   margin-top: 92px;
 }
+
 .cover__background::before {
   position: absolute;
   content: "";

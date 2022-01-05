@@ -13,6 +13,13 @@
 @media screen and (max-width:460px) {
 .lead__image { 
    margin-top: 40px;  
+   max-width: 380px; 
+}
+}
+
+@media screen and (max-width:390px) {
+.lead__image { 
+   margin-top: 40px;  
    max-width: 320px; 
 }
 }
