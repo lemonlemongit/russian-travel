@@ -1,0 +1,18 @@
+﻿.place__block {
+   width: 100%;
+   display: flex;
+   flex-direction: column;
+   margin: 0 auto 80px auto;
+}
+
+.place__block:last-child {
+   margin: 0 auto;
+}
+
+
+@media screen and (max-width:340px) {
+.place__block { 
+  margin: 0 auto 50px auto;
+   max-width: 320px;
+}
+}

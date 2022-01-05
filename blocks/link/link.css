@@ -1,0 +1,9 @@
+﻿.link {
+  list-style-type: none
+   
+}
+
+.link:hover {
+ transition: ease 0.2s ;
+ opacity: .8;
+}
