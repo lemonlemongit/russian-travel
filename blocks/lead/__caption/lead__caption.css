@@ -11,20 +11,26 @@
 }
 
 @media screen and (max-width:1024px) {
-.lead__caption { 
-  max-width: 100%;
+.lead__caption {
+  text-align: left;
 }
 }
 
 @media screen and (max-width:768px) {
-.lead__caption { 
-   margin-left: 24px;
+.lead__caption {
+  min-width: 94%;
 }
 }
 
 @media screen and (max-width:460px) {
-.lead__caption { 
-   margin-left: 16px;
-   width: 100px;
+.lead__caption {
+   max-width: 460px;
+}
+}
+
+@media screen and (max-width:360px) {
+.lead__caption {
+  max-width: 288px;
+  min-width: 288px;
 }
 }
