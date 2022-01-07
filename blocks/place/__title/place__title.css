@@ -25,7 +25,6 @@
 .place__title {
   font-size: 42px;
   line-height: 46px;
- 
 }
 }
 
@@ -46,5 +45,7 @@
    margin: 0;
    min-width: 286px;
    max-width: 288px;
+   font-size: 32px;
+   line-height: 35px;
 }
 }
