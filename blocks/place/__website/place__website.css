@@ -3,32 +3,22 @@
   flex-direction: column;
   align-self: flex-end;
   margin:0 0 48px 0;
-  min-width: 456px;
+  min-width: 44%;
 }
 
-@media screen and (max-width:1024px) {
-.place__website { 
-  min-width: 456px;
-}
-}
 
 @media screen and (max-width:880px) {
-.place__website { 
+.place__website {
   min-width: 400px;
 }
 }
 
 @media screen and (max-width:768px) {
-.place__website { 
+.place__website {
   min-width: 44%;
 }
 }
 
-@media screen and (max-width:710px) {
-.place__website { 
-  min-width: 44%;
-}
-}
 
 @media screen and (max-width:630px) {
 .place__website { 
