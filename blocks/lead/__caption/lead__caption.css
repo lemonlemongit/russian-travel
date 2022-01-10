@@ -13,18 +13,13 @@
 @media screen and (max-width:1024px) {
 .lead__caption {
   text-align: left;
+  min-width: 96%;
 }
 }
 
 @media screen and (max-width:768px) {
 .lead__caption {
   min-width: 94%;
-}
-}
-
-@media screen and (max-width:460px) {
-.lead__caption {
-   max-width: 460px;
 }
 }
 

@@ -9,7 +9,6 @@
    margin: 0 auto;
 }
 
-
 @media screen and (max-width:340px) {
 .place__block { 
   margin: 0 auto 50px auto;

@@ -3,30 +3,30 @@
   max-width: 984px;
   color: white;
   margin: 0 auto;
+  padding: 0 48px;
 }
 
 @media screen and (max-width:1024px) {
 .intro { 
-  max-width: 928px;
+  max-width: 94%;
+  min-width: 690px;
 }
 }
 
-@media screen and (max-width:768px) {
+@media screen and (max-width:840px) {
 .intro { 
-  max-width: 720px;
-  min-width: 96%;
+  min-width: 90%;
+  max-width: 100%;
+   padding: 0 24px;
 }
 }
 
-@media screen and (max-width:767px) {
-.intro { 
-  max-width: 96%;
-}
-}
+
 
 @media screen and (max-width:460px) {
 .intro { 
   max-width: 288px;
-  min-width: 94%;
+  min-width: 288px;
+  padding: 0;
 }
 }

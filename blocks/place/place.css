@@ -15,24 +15,20 @@
 
 @media screen and (max-width:1000px) {
 .place { 
-  max-width: 98%;
-}
-}
-
-@media screen and (max-width:768px) {
-.place { 
-  max-width: 720px;
-}
-}
-
-@media screen and (max-width:760px) {
-.place { 
-  max-width: 96%;
-}
-}
-
-@media screen and (max-width:620px) {
-.place { 
   max-width: 100%;
+  padding: 0 48px;
 }
 }
+
+@media screen and (max-width:840px) {
+.place { 
+padding: 0 24px;
+}
+}
+
+@media screen and (max-width:630px) {
+.place { 
+  padding: 0;
+}
+}
+
