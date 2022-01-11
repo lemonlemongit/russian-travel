@@ -6,30 +6,35 @@
   min-width: 44%;
 }
 
-
-@media screen and (max-width:880px) {
+@media screen and (max-width:1000px) {
 .place__website {
-  min-width: 400px;
+  min-width: 30%;
 }
 }
 
 @media screen and (max-width:768px) {
 .place__website {
-  min-width: 44%;
+  min-width: 35%;
 }
 }
-
 
 @media screen and (max-width:660px) {
 .place__website { 
-  min-width: 96%;
-  margin-left:0;
+  max-width: 390px;
+  min-width: 390px;
+  margin: 32px 0;
+  align-self: center;
+}
+}
+
+@media screen and (max-width:430px) {
+.place__website {
+  min-width: 100%;
 }
 }
 
 @media screen and (max-width:340px) {
 .place__website { 
-  margin:32px 0;
   min-width: 288px;
 }
 }
