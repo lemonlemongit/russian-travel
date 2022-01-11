@@ -1,6 +1,6 @@
 ﻿.place__content {
-   display: flex;
-   max-width: 100%;
+  display: flex;
+  max-width: 100%;
 }
 
 @media screen and (max-width:660px) {

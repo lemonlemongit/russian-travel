@@ -5,19 +5,19 @@
 
 @media screen and (max-width:1024px) {
 .lead__image {
-   margin-top: 56px;
+  margin-top: 56px;
 }
 }
 
 @media screen and (max-width:460px) {
 .lead__image {
-   margin-top: 40px;
+  margin-top: 40px;
    
 }
 }
 
 @media screen and (max-width:390px) {
 .lead__image {
-   max-width: 320px;
+  max-width: 320px;
 }
 }
