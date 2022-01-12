@@ -46,8 +46,8 @@
 .place__image { 
   max-width: 100%;
   max-height: 100%;
-  }
-  }
+}
+}
 
 @media screen and (max-width:366px) {
 .place__image { 

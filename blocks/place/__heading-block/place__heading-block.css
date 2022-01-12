@@ -26,8 +26,8 @@
   padding: 0 16px;
   margin: 0;
   min-width: 90%;
-  }
-  }
+}
+}
 
 @media screen and (max-width:340px) {
 .place__heading-block {
